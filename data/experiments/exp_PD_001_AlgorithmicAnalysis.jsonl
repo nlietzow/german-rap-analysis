@@ -1,0 +1,20 @@
+{"eval_loss": 0.4339779317378998, "eval_f1": 0.6506329113924051, "eval_precision": 0.6781002638522428, "eval_recall": 0.6253041362530414, "eval_runtime": 13.9803, "eval_samples_per_second": 100.141, "eval_steps_per_second": 1.574, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.3171912832929782, "eval_precision": 0.3156626506024096, "eval_recall": 0.31873479318734793, "model": "random_baseline"}
+{"eval_loss": 0.4786977171897888, "eval_f1": 0.6455981941309255, "eval_precision": 0.6355555555555555, "eval_recall": 0.6559633027522935, "eval_runtime": 13.9321, "eval_samples_per_second": 100.487, "eval_steps_per_second": 1.579, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.2988235294117647, "eval_precision": 0.30676328502415456, "eval_recall": 0.29128440366972475, "model": "random_baseline"}
+{"eval_loss": 0.40889972448349, "eval_f1": 0.6898203592814371, "eval_precision": 0.6545454545454545, "eval_recall": 0.7291139240506329, "eval_runtime": 13.9748, "eval_samples_per_second": 100.181, "eval_steps_per_second": 1.574, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.2367758186397985, "eval_precision": 0.23558897243107768, "eval_recall": 0.2379746835443038, "model": "random_baseline"}
+{"eval_loss": 0.4426608681678772, "eval_f1": 0.6434108527131783, "eval_precision": 0.7175792507204611, "eval_recall": 0.5831381733021077, "eval_runtime": 13.9872, "eval_samples_per_second": 100.092, "eval_steps_per_second": 1.573, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.2847058823529412, "eval_precision": 0.2860520094562648, "eval_recall": 0.28337236533957844, "model": "random_baseline"}
+{"eval_loss": 0.45179590582847595, "eval_f1": 0.6619883040935672, "eval_precision": 0.6261061946902655, "eval_recall": 0.7022332506203474, "eval_runtime": 13.8784, "eval_samples_per_second": 100.876, "eval_steps_per_second": 1.585, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.26899128268991285, "eval_precision": 0.27, "eval_recall": 0.2679900744416873, "model": "random_baseline"}
+{"eval_loss": 0.4110071659088135, "eval_f1": 0.6760895170789163, "eval_precision": 0.6597701149425287, "eval_recall": 0.6932367149758454, "eval_runtime": 14.0551, "eval_samples_per_second": 99.608, "eval_steps_per_second": 1.565, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.30317273795534666, "eval_precision": 0.2951945080091533, "eval_recall": 0.3115942028985507, "model": "random_baseline"}
+{"eval_loss": 0.40416884422302246, "eval_f1": 0.6632124352331608, "eval_precision": 0.6881720430107527, "eval_recall": 0.64, "eval_runtime": 14.0257, "eval_samples_per_second": 99.817, "eval_steps_per_second": 1.569, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.2986857825567503, "eval_precision": 0.28604118993135014, "eval_recall": 0.3125, "model": "random_baseline"}
+{"eval_loss": 0.4340551495552063, "eval_f1": 0.6844547563805106, "eval_precision": 0.6876456876456877, "eval_recall": 0.6812933025404158, "eval_runtime": 13.9897, "eval_samples_per_second": 100.002, "eval_steps_per_second": 1.573, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.292326431181486, "eval_precision": 0.30927835051546393, "eval_recall": 0.27713625866050806, "model": "random_baseline"}
+{"eval_loss": 0.42049330472946167, "eval_f1": 0.6573957016434893, "eval_precision": 0.6532663316582915, "eval_recall": 0.6615776081424937, "eval_runtime": 14.0494, "eval_samples_per_second": 99.577, "eval_steps_per_second": 1.566, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.28463476070528965, "eval_precision": 0.2817955112219451, "eval_recall": 0.2875318066157761, "model": "random_baseline"}
+{"eval_loss": 0.42486053705215454, "eval_f1": 0.6532544378698224, "eval_precision": 0.6448598130841121, "eval_recall": 0.6618705035971223, "eval_runtime": 14.043, "eval_samples_per_second": 99.623, "eval_steps_per_second": 1.567, "epoch": 2.0, "model": "bert-base-multilingual-cased"}
+{"eval_f1": 0.31013431013431014, "eval_precision": 0.31592039800995025, "eval_recall": 0.30455635491606714, "model": "random_baseline"}
