@@ -4,13 +4,14 @@
 
 ## Abstract
 
-Rap music is one of the most influential contemporary music genres with a huge societal significance.
-Existing analyses of rap often rely on self-performed web scraping approaches and do not take popularity of songs into
-account. In this work, we contribute a novel dataset for German rap lyrics analysis, comprising 13,997 songs that
-achieved high chart positions during the years 2015-2023. Each song is further annotated with moderation labels,
-reflecting the presence of harassment, violence, sexuality, hate and self-harm, enabling analysis of harmful or explicit
-content within German rap. The proposed dataset opens up the possibility to explore individual artists’ lyrical styles
-as well as the temporal development of German rap. The data and code are made publicly available for further research1.
+Rap music is one of the most influential contemporary music genres with a huge societal significance. Existing analyses
+of rap often rely on surveys or web scraping approaches that do not take popularity of songs into account.
+In this work, we contribute a novel dataset for German rap lyrics analysis, comprising 13,997 songs that achieved high
+chart positions between the years 2015-2023.
+Each song is further annotated with moderation labels, reflecting the presence of harassment, violence, sexuality, hate
+and self-harm, enabling analysis of harmful or explicit content within German rap.
+The proposed dataset opens up the possibility to explore individual artists' lyrical styles as well as the temporal
+development of German rap.
 
 ## Setup
 
@@ -46,6 +47,7 @@ The scraped data is stored in the `data` folder:
 - `data/csv/charts.csv`: Dataset with the scraped charts data.
 - `data/csv/songs.csv`: Dataset with the scraped songs data (no lyrics).
 - `data/csv/moderation.csv`: Dataset with the content moderation predictions.
+- `data/csv/output.csv`: Joined dataset of the above datasets.
 - `data/lyrics.zip`: Zip file with the scraped lyrics.
 
 ## Experiments
